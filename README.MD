@@ -101,7 +101,7 @@ OWNER_ID =  sᴛᴀʀᴛ @leviii_bot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [ʀɪᴀɴ] × <a href="https://github.com/rian3755" alt="rian3755"> <img src=""https://img.shields.io/badge/Mr•Rian-90302f?logo=github" /></a>  
+➥ [ʀɪᴀɴ] × <a href="https://github.com/rian3755" alt="rian3755"><img src="https://img.shields.io/badge/Mr•Rian-90302f?logo=github"/></a>  
 
 
 
