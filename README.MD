@@ -3,7 +3,7 @@
 **ᴋɪɴɢ ᴀʙɪsʜɴᴏɪ**
 
 <h2 align="center">
-    ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
+    ──「 ˹ʟᴇᴠɪ ℵ ʀσʙσт˼ 」──
 </h2>
 
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/levi_vaiii) 
@@ -75,7 +75,8 @@ OWNER_ID =  sᴛᴀʀᴛ @leviii_bot & ᴛʏᴘᴇ /id
 </h3>
 
 - <b>[ʟᴇᴠɪ •ᴜᴘᴅᴀᴛᴇs](https://t.me/leviii_updates)
-  ➻  [˹sᴇᴅ ʟʏғ˼](https://t.me/levi_vaiii) </b>
+ 
+  ➻  [˹sᴇᴅ ʟʏғ˼](https://t.me/levi_vaiii) </b>
 - <b>[˹sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ˼](https://t.me/AnimeAsylum) 
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -100,7 +101,7 @@ OWNER_ID =  sᴛᴀʀᴛ @leviii_bot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [ʀɪᴀɴ] × <a href="https://github.com/rian3755" alt="rian3755"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
+➥ [ʀɪᴀɴ] × <a href="https://github.com/rian3755" alt="rian3755"> <img src="([https://img.shields.io/badge/Mr.Rian-90302f?logo=github])" /></a>  
 
 
 ━━━━━━━━━━━━━━━━━━━━
