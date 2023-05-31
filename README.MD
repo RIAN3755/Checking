@@ -70,9 +70,15 @@ OWNER_ID =  sᴛᴀʀᴛ @leviii_bot & ᴛʏᴘᴇ /id
 ```
 </details>
 ━━━━━━━━━━━━━━━━━━━━
-The Support group can be reached out to at [Programmer • Support](https://telegram.dog/AnimeAsylum) Or [Levi Support (Github)](https://github.com/RIAN3755/LeviRobot), where you can ask for help about [Levi-updates](https://telegram.dog/Levi_updates), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
-[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/levi_vaiii)
+<h3 align="center">
+    ─「 ᴀʟʟ ɢʀᴏᴜᴘ's&  ᴄʜᴀɴɴᴇʟ's 」─
+</h3>
 
+- <b>[ʟᴇᴠɪ •ᴜᴘᴅᴀᴛᴇs](https://t.me/leviii_updates)
+  ➻  [˹sᴇᴅ ʟʏғ˼](https://t.me/levi_vaiii) </b>
+- <b>[˹sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ˼](https://t.me/AnimeAsylum) 
+
+━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -90,14 +96,12 @@ The Support group can be reached out to at [Programmer • Support](https://tele
 
 ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+    ─「 ᴛʜᴇ ᴏᴡɴᴇʀ 」─
 </h3>
  : ➻
 
-➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/Abishnoi69" alt="Abishnoi69"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
-
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
+➥ [ʀɪᴀɴ] × <a href="https://github.com/rian3755" alt="rian3755"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
 
 
-➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
 ━━━━━━━━━━━━━━━━━━━━
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
